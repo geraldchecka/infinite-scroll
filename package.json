@@ -1,0 +1,19 @@
+{
+  "name": "infinite-scroll",
+  "version": "0.0.1",
+  "description": "A fully loaded React infinite scroll table based on DOM recycling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geraldchecka/infinite-scroll.git"
+  },
+  "author": "Anvesh Checka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geraldchecka/infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/geraldchecka/infinite-scroll#readme"
+}

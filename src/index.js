@@ -5,4 +5,4 @@ function App() {
   return <span>React App</span>;
 }
 
-ReactDOM.render(<App />, documentg.getElementById("is-app"));
+ReactDOM.render(<App />, document.getElementById("is-app"));
